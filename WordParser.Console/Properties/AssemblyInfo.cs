@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("WordParserLibrary")]
+[assembly: AssemblyTitle("WordParser.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WordParserLibrary")]
+[assembly: AssemblyProduct("WordParser.Console")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("234e82fe-eb59-4ab8-ab3d-24d26e572778")]
+[assembly: Guid("f364f9e7-40ad-49ad-9443-25b86cdef861")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

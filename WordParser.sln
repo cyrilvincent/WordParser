@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordParserLibrary", "WordParserLibrary\WordParserLibrary.csproj", "{234E82FE-EB59-4AB8-AB3D-24D26E572778}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordParserLibrary", "WordParser.Library\WordParserLibrary.csproj", "{F67CEA40-591A-4F2F-8CAE-4F1C5B4BDF8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordParserConsole", "WordParser.Console\WordParserConsole.csproj", "{F364F9E7-40AD-49AD-9443-25B86CDEF861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{234E82FE-EB59-4AB8-AB3D-24D26E572778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{234E82FE-EB59-4AB8-AB3D-24D26E572778}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{234E82FE-EB59-4AB8-AB3D-24D26E572778}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{234E82FE-EB59-4AB8-AB3D-24D26E572778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67CEA40-591A-4F2F-8CAE-4F1C5B4BDF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67CEA40-591A-4F2F-8CAE-4F1C5B4BDF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67CEA40-591A-4F2F-8CAE-4F1C5B4BDF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67CEA40-591A-4F2F-8CAE-4F1C5B4BDF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F364F9E7-40AD-49AD-9443-25B86CDEF861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F364F9E7-40AD-49AD-9443-25B86CDEF861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F364F9E7-40AD-49AD-9443-25B86CDEF861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F364F9E7-40AD-49AD-9443-25B86CDEF861}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E561B317-5F40-4207-A1A3-5600C97EF738}
+		SolutionGuid = {4299697C-FA7C-49D8-A616-161237F8B95E}
 	EndGlobalSection
 EndGlobal
