@@ -33,6 +33,13 @@ namespace WordParserLibrary
             Scope = scope;
         }
 
+        public void Create()
+        {
+            Parse();
+            Map();
+            Save();
+        }
+
         public void CreateTemp()
         {
             if (!Directory.Exists(TempDirectory))
